@@ -1,0 +1,69 @@
+footer{
+    text-align: center;
+    position: center;
+    background-color:  rgb(212, 226, 223);;
+}
+
+aside{
+    text-align: center;
+    position: center;
+}
+
+img{
+    text-align: center;
+    position: center;
+}
+
+section{
+    text-align: center;
+    position: center;
+}
+
+.cabide{
+    text-align: center;
+    position: center;
+}
+
+nav{
+    background-color: rgb(212, 226, 223);
+    text-align: center;
+    position: center;
+}
+
+ul{
+    text-align: center;
+    position: center;
+}
+
+.Historia{
+    text-align: right;
+    position: center;
+}
+
+.Contato{
+    text-align: center;
+    position: center;
+}
+
+.historiaecontato{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    font-family: pecita;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h1{
+    font-size: 24px;
+    background-color: rgb(212, 226, 223);
+}
